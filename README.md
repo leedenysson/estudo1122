@@ -16,7 +16,7 @@ Plano de estudos orange tech +
 > pomodoro: 35/5 35/5 35/5 35/5 25/5
 
 
-- [ ] Modulo 1 (Onboarding)
+- [X] Modulo 1 (Onboarding)
 
 - [ ] Modulo 2 (Principios de desenvolvimento de software)
 - [ ] Modulo 2.1 5hrs // introdução à programação e pensamento computacional // 4 a 6-11
