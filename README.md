@@ -19,8 +19,8 @@ Plano de estudos orange tech +
 - [X] Modulo 1 (Onboarding)
 
 - [ ] Modulo 2 (Principios de desenvolvimento de software)
-- [ ] Modulo 2.1 5hrs // introdução à programação e pensamento computacional // 4 a 6-11
-- [ ] Modulo 2.2 5hrs // introdução ao git e github // 6 a 8-11
+- [X] Modulo 2.1 5hrs // introdução à programação e pensamento computacional // 4 a 6-11 X
+- [ ] Modulo 2.2 5hrs // introdução ao git e github // 6 a 8-11 - 7
 - [ ] Modulo 2.3 1hrs // como entregar seu desafio de projeto // 8 e 9-11
 - [ ] Modulo 2.4 2hrs // criando seu primeiro repertorio no github para compartilhar seu progresso // 9 e 10-11
 
