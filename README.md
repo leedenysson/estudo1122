@@ -12,8 +12,8 @@ Plano de estudos orange tech +
 ## Metas
 > 'Fazer' o bootcamp Orange Tech+ [DIO](https://web.dio.me/track/orange-tech?tab=mentoring)
 > 
-> Tot \n al do curso 2/3hrs por dia
-> pomod n\ oro: 35/5 35/5 35/5 35/5 25/5
+> Total do curso 2/3hrs por dia
+> pomodoro: 35/5 35/5 35/5 35/5 25/5
 
 
 - [X] Modulo 1 (Onboarding)
