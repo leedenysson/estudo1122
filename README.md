@@ -50,3 +50,20 @@ Curso X.X (X) | X
 Curso X.X (X) | X
 Curso X.X (X) | X
 Curso X.X (X) | X
+
+
+<table>
+  <tr>
+    <th>Company</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
