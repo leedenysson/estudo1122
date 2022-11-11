@@ -46,9 +46,10 @@ Plano de estudos orange tech +
 
 
 
+| Modulo | Assunto | Data |
 | Modulo 3 | Primeiras Páginas Interativas com JavaScript | 11 a 21 |
 |----|----|----|
-| Curso 3.1 (3) | Primeiros Passos Com JavaScript | 11 a 12 | - [ ] a
+| Curso 3.1 (3) | Primeiros Passos Com JavaScript | 11 a 12 |
 | Curso 3.2 (2) | Conhecendo Funções JavaScript | 12 a 13 |
 | Curso 3.3 (2) | Criando Objetos e Classes em JavaScript | 13 a 14 |
 | Curso 3.4 (2) | Arrays e Estruturas de Repetição em JavaScript | 14 a 15 |
