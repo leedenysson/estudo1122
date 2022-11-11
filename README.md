@@ -43,7 +43,7 @@ Plano de estudos orange tech +
 
 
 
-Exemplo   | 
+Exemplo   |       
 ------- | ------
 Exemplo 1 | R$ 10
 Exemplo 2 | R$ 8
