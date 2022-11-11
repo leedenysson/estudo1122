@@ -45,9 +45,9 @@ Plano de estudos orange tech +
 
 
 
-
-Modulo 3 | Primeiras Páginas Interativas com JavaScript | 11 a 21
----- | ---- | ----
-Curso 3.7 (2) | Criando um Projeto com HTML/CSS para Listagem de Pokémon | 17 a 18
-Curso 3.8 (4) | Dominando o Protocolo HTTP e Integrando com a PokeAPI | 18 a 20
-Desafio 3 (1) | Construindo uma Pokédex com JavaScript | 20 a 21
+| | | |
+|----|----|----|
+| Modulo 3 | Primeiras Páginas Interativas com JavaScript | 11 a 21 |
+| Curso 3.7 (2) | Criando um Projeto com HTML/CSS para Listagem de Pokémon | 17 a 18 |
+| Curso 3.8 (4) | Dominando o Protocolo HTTP e Integrando com a PokeAPI | 18 a 20 |
+| Desafio 3 (1) | Construindo uma Pokédex com JavaScript | 20 a 21 |
