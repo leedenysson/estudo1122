@@ -44,7 +44,7 @@ Plano de estudos orange tech +
 
 
 Modulo X | X
-- | -
+---- | ----
 Curso X.X (X) | X
 Curso X.X (X) | X
 Curso X.X (X) | X
