@@ -45,6 +45,7 @@ Plano de estudos orange tech +
 
 
 
+||||
 |----|----|----|
 | Modulo 3 | Primeiras Páginas Interativas com JavaScript | 11 a 21 |
 | Curso 3.7 (2) | Criando um Projeto com HTML/CSS para Listagem de Pokémon | 17 a 18 |
