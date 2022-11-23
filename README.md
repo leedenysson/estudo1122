@@ -30,9 +30,9 @@ Plano de estudos orange tech +
 - [ ] Modulo 3 - Primeiras Páginas Interativas com JavaScript
 - [X] Curso 3.1 (3) - Primeiros Passos Com JavaScript // 11 a 12 [16]
 - [X] Curso 3.2 (2) - Conhecendo Funções JavaScript // 12 a 13 [16]
-- [ ] Curso 3.3 (2) - Criando Objetos e Classes em JavaScript // 13 a 14 
-- [ ] Curso 3.4 (2) - Arrays e Estruturas de Repetição em JavaScript // 14 a 15 
-- [ ] Curso 3.5 (1) - Importação e Exportação com JavaScript // 15 a 16 
+- [X] Curso 3.3 (2) - Criando Objetos e Classes em JavaScript // 13 a 14 [17]
+- [X] Curso 3.4 (2) - Arrays e Estruturas de Repetição em JavaScript // 14 a 15 [19]
+- [X] Curso 3.5 (1) - Importação e Exportação com JavaScript // 15 a 16 [22]
 - [ ] Curso 3.6 (1) - Introdução ao Desenvolvimento Web com JavaScript // 16 a 17 
 - [ ] Curso 3.7 (2) - Criando um Projeto com HTML/CSS para Listagem de Pokémon // 17 a 18 
 - [ ] Curso 3.8 (4) - Dominando o Protocolo HTTP e Integrando com a PokeAPI // 18 a 20 
