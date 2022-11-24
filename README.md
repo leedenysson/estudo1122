@@ -33,12 +33,17 @@ Plano de estudos orange tech +
 - [X] Curso 3.3 (2) - Criando Objetos e Classes em JavaScript // 13 a 14 [17]
 - [X] Curso 3.4 (2) - Arrays e Estruturas de Repetição em JavaScript // 14 a 15 [19]
 - [X] Curso 3.5 (1) - Importação e Exportação com JavaScript // 15 a 16 [22]
-- [ ] Curso 3.6 (1) - Introdução ao Desenvolvimento Web com JavaScript // 16 a 17 
+- [X] Curso 3.6 (1) - Introdução ao Desenvolvimento Web com JavaScript // 16 a 17 [24]
 - [ ] Curso 3.7 (2) - Criando um Projeto com HTML/CSS para Listagem de Pokémon // 17 a 18 
 - [ ] Curso 3.8 (4) - Dominando o Protocolo HTTP e Integrando com a PokeAPI // 18 a 20 
 - [ ] Desafio 3 (1) - Construindo uma Pokédex com JavaScript // 20 a 21 
 
-- [ ] Modulo 4
+- [ ] Modulo 4 - Dominando Algoritmos Básicos com Desafios de Código JavaScript
+- [ ] Curso 4.1 (1) - Desafio: Somando Multiplos
+- [ ] Curso 4.2 (1) - Desafio: FizzBuzz
+- [ ] Curso 4.3 (1) - Desafio: Uma Chamada Recursiva
+- [ ] Curso 4.4 (1) - Desafio: Os Números São iguais
+- [ ] Curso 4.5 (1) - Desafio: Busca Sequencial
 
 
 
