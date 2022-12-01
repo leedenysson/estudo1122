@@ -6,13 +6,13 @@
 > pomodoro: 35/5 35/5 35/5 35/5 25/5  
 
 - [X] Modulo 1 - Onboarding  
-
+\
 - [X] Modulo 2 - Principios de desenvolvimento de software
 - [X] Curso 2.1 (5) - Introdução à programação e pensamento computacional
 - [X] Curso 2.2 (5) - Introdução ao git e github
 - [X] Curso 2.3 (1) - Como entregar seu desafio de projeto
-- [X] Desafio 2 (2) - Criando seu primeiro repertorio no github para compartilhar seu progresso\
-
+- [X] Desafio 2 (2) - Criando seu primeiro repertorio no github para compartilhar seu progresso
+\
 - [X] Mentoria: 07/11 - Componentizando uma Aplicação e Criando Interfaces Responsivas - 1:30
 - [X] Mentoria: 09/11 - Garantindo a Qualidade do seu Código com Jest
 - [ ] Mentoria: 11/11 - A importância do Inglês no Mercado de Trabalho - Inter
