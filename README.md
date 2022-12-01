@@ -1,5 +1,5 @@
 # estudo1122
-<br>
+
 ⭐ Plano de estudos orange tech + 
 > 'Fazer' o bootcamp Orange Tech+ [DIO](https://web.dio.me/track/orange-tech?tab=mentoring)
 > Total do curso 2/3hrs por dia
