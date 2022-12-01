@@ -11,7 +11,7 @@
 - [X] Curso 2.1 (5) - Introdução à programação e pensamento computacional
 - [X] Curso 2.2 (5) - Introdução ao git e github
 - [X] Curso 2.3 (1) - Como entregar seu desafio de projeto
-- [X] Desafio 2 (2) - Criando seu primeiro repertorio no github para compartilhar seu progresso  
+- [X] Desafio 2 (2) - Criando seu primeiro repertorio no github para compartilhar seu progresso.
 
 - [X] Mentoria: 07/11 - Componentizando uma Aplicação e Criando Interfaces Responsivas - 1:30
 - [X] Mentoria: 09/11 - Garantindo a Qualidade do seu Código com Jest
@@ -53,15 +53,15 @@
 - [ ] Desafio 5.4 (1) - Implementando Uma Tela de Login Com Validação Usando TypeScript  
 
 - [ ] Modulo 6 - Dominando Algoritmos Intermediários com Desafios de Código JavaScript
-- [ ] Curso 6.1 (1) - Desafio: 
-- [ ] Curso 6.2 (1) - Desafio: 
-- [ ] Curso 6.3 (1) - Desafio: 
-- [ ] Curso 6.4 (1) - Desafio: 
-- [ ] Curso 6.5 (1) - Desafio:   
+- [ ] Curso 6.1 (1) - Desafio: Fatorial Desajeitado
+- [ ] Curso 6.2 (1) - Desafio: Checagem de Palindromos
+- [ ] Curso 6.3 (1) - Desafio: Quadrados Perfeitos
+- [ ] Curso 6.4 (1) - Desafio: Matriz Par e Impar
+- [ ] Curso 6.5 (1) - Desafio: Validação de Parênteses
 
 - [ ] Modulo 7 - Fortalecendo sua Carreira Profissional
-- [ ] Curso 7.1 (1) - 
-- [ ] Curso 7.2 (1) - 
-- [ ] Curso 7.3 (3) - 
-- [ ] Curso 7.4 (1) - 
-- [ ] Curso 7.5 (1) -   
+- [ ] Curso 7.1 (1) - Deixando Seu LinkedInd Atrativo
+- [ ] Curso 7.2 (1) - Turbine Seu Currículo na DIO
+- [ ] Curso 7.3 (3) - Trabalhando em Equipes Ágeis
+- [ ] Curso 7.4 (1) - Transformando seu Conhecimento em Artigos Técnicos
+- [ ] Curso 7.5 (1) - Se Preparando Para Uma Entrevista
